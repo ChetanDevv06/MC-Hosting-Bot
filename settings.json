@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DreadfallMC.aternos.me:18627",
+    "ip": "DreadfallMC.aternos.me",
     "port": 18627,
     "version": "",
     "try-creative": false
